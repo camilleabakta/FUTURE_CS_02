@@ -36,7 +36,7 @@ During the investigation, several high-severity security incidents were identifi
     ```
 4.  Navigate to the **Visualization** tab to generate the Threat Distribution Pie Chart.
 
-### 👤 Author
+### Author
 **ABAKTA Haana Camille**  
 Cyber Security Intern at Future Interns  
 Date: January 09, 2026
